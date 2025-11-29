@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <meta
+      name="description"
+      content="Official Website of Digifest 2024 - A prestigious competition festival hosted by SMK Telkom Malang"
+    />
+    <title>Digifest 2024 - Official Website</title>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="main">
+      <section class="section">
+        <nav class="list" aria-label="Breadcrumb">
+          <div class="div-wrapper">
+            <a href="https://www.ahsanzizan.xyz/" target="_blank" rel="noopener noreferrer">
+              <span class="text-wrapper">Home</span>
+            </a>
+          </div>
+          <div class="div-wrapper">
+            <span class="div" aria-hidden="true">&gt;</span>
+          </div>
+          <div class="item">
+            <div class="div-wrapper-2">
+              <a href="https://www.ahsanzizan.xyz/work" target="_blank" rel="noopener noreferrer">
+                <span class="text-wrapper">Work</span>
+              </a>
+            </div>
+            <div class="div-wrapper">
+              <span class="div" aria-hidden="true">&gt;</span>
+            </div>
+          </div>
+          <div class="div-wrapper-2">
+            <a
+              href="https://www.ahsanzizan.xyz/work/digifest-2024"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-current="page"
+            >
+              <span class="text-wrapper">Digifest-2024</span>
+            </a>
+          </div>
+        </nav>
+        <div class="cover-of-official" role="img" aria-label="Cover image of Official Website of Digifest"></div>
+        <div class="container">
+          <div class="background-border">
+            <span class="text-wrapper-2">Completed</span>
+          </div>
+          <div class="container-2">
+            <img class="component" src="img/variant-1.svg" alt="" aria-hidden="true" />
+            <time class="text-wrapper-3" datetime="2024-10-18">Oct 18, 2024</time>
+          </div>
+        </div>
+        <header class="heading">
+          <h1 class="official-website-of">Official Website of<br />Digifest</h1>
+        </header>
+        <div class="container-3">
+          <p class="text-wrapper-3">
+            Web-application Development, Event Management System, Registration Management System
+          </p>
+        </div>
+        <ul class="container-4" role="list">
+          <li class="border">
+            <span class="text-wrapper-4">Next.js</span>
+          </li>
+          <li class="border">
+            <span class="text-wrapper-4">TypeScript</span>
+          </li>
+          <li class="border">
+            <span class="text-wrapper-4">Prisma</span>
+          </li>
+          <li class="border">
+            <span class="text-wrapper-4">MySQL</span>
+          </li>
+          <li class="border">
+            <span class="text-wrapper-4">TailwindCSS</span>
+          </li>
+          <li class="border">
+            <span class="text-wrapper-4">NextAuth</span>
+          </li>
+          <li class="border">
+            <span class="text-wrapper-4">Server Actions</span>
+          </li>
+        </ul>
+        <div class="heading-2">
+          <p class="p">As Team Lead, Software Engineer</p>
+        </div>
+      </section>
+      <section class="section-2">
+        <div class="digifest-is-a-wrapper">
+          <p class="digifest-is-a">
+            Digifest 2024 is a prestigious competition festival hosted by SMK Telkom Malang, featuring the Olimawisa
+            (Olimpiade Wikusama) and MIFest (Moklet Islamic<br />Festival). As the Team Lead and Full-Stack Developer, I
+            oversaw the planning, development, and testing of the web application using the Agile SDLC method.<br />The
+            platform was built to streamline registration, competition stages, and announcement management, ensuring a
+            seamless experience for both organizers<br />and participants. Key features included a secure authentication
+            system powered by NextAuth, a robust database with Prisma and MySQL, and efficient data<br />management
+            through Next.js 14 Server Actions. Upon its launch, the application garnered over 600+ registrations from
+            participants across Indonesia within<br />its first three weeks, showcasing its scalability and reliability.
+            The project was a collaborative effort with a team of four, and we successfully delivered the<br />platform
+            within a tight 2-week timeline.
+          </p>
+        </div>
+        <nav class="container-5" aria-label="Project links">
+          <div class="link">
+            <a href="https://digifest.smktelkom-mlg.sch.id/" target="_blank" rel="noopener noreferrer">
+              <span class="text-wrapper-5">Visit Site</span>
+            </a>
+            <span class="horizontal-divider" aria-hidden="true"></span>
+          </div>
+          <div class="link">
+            <a href="https://digifest.moklet.org/" target="_blank" rel="noopener noreferrer">
+              <span class="text-wrapper-5">Visit Site (archive)</span>
+            </a>
+            <span class="horizontal-divider" aria-hidden="true"></span>
+          </div>
+        </nav>
+      </section>
+      <section class="section-3">
+        <div class="photo-by-https" role="img" aria-label="Collaboration background image"></div>
+        <div class="container-6">
+          <header class="heading-3">
+            <h2 class="text-wrapper-6">Got an idea or project?</h2>
+          </header>
+          <div class="heading-3">
+            <p class="text-wrapper-7">Let's Collaborate!</p>
+          </div>
+          <div class="if-you-have-an-idea-wrapper">
+            <p class="if-you-have-an-idea">If you have an idea or a project in mind don't hesitate to reach me out</p>
+          </div>
+          <div class="link-2">
+            <a href="mailto:contact@ahsanzizan.xyz" target="_blank" rel="noopener noreferrer">
+              <span class="text-wrapper-8">Contact Me</span>
+            </a>
+            <span class="horizontal-divider" aria-hidden="true"></span>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
